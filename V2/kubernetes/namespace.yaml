@@ -1,5 +1,0 @@
-# kubernetes namespace for EKS
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: rest-ns
